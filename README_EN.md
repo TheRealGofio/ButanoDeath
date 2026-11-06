@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/icon.png" width="128" height="128" alt="ButanoDeath Logo">
+  <img src="https://raw.githubusercontent.com/TheRealGofio/ButanoDeath/main/.github/icon.png" width="128" height="128" alt="ButanoDeath Logo">
 </p>
 
 # ButanoDeath - WoW Addon
