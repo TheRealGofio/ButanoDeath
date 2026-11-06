@@ -1,0 +1,7 @@
+## Interface: 16001, 11506, 11505, 11504, 11503, 11502, 11500, 11200
+## Title: |cffff6600ButanoDeath|r
+## Notes: Reproduce un auténtico temazo cuando mueres.
+## Author: Holgar Hachatormenta
+## Version: 1.0
+
+Core.lua
