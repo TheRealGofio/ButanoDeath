@@ -1,6 +1,10 @@
+<p align="center">
+  <img src=".github/icon.png" width="128" height="128" alt="ButanoDeath Logo">
+</p>
+
 # ButanoDeath - Addon para WoW
 
-Este addon reproduce un archivo de sonido personalizado cada vez que tu personaje muere.
+Este addon reproduce el temazo del año cuando mueres.
 
 ---
 
@@ -16,21 +20,13 @@ World of Warcraft/
             ├── ButanoDeath.toc
             ├── Core.lua
             └── sounds/
-                └── death.mp3   <-- (Tu archivo de audio aquí)
+                └── death.mp3   <-- (Cambia este archivo si quieres sustituir el sonido original del addon, aunque no entiendo por qué querrías hacerlo)
 ```
-
----
-
-## 🎵 Requisitos del Audio
-
-1. Guarda tu audio con el nombre **`death.mp3`** (o `.ogg`) dentro de la carpeta `sounds/`.
-2. **¡Importante!**: El cliente de World of Warcraft indexa archivos de sonido nuevos **únicamente al iniciar el juego**. Si agregas el audio con el juego abierto, reinícialo.
-
----
 
 ## 🧪 Comandos de prueba
 
-En el chat del juego puedes probar el audio escribiendo cualquiera de estos:
+En el chat del juego puedes probar el audio escribiendo cualquiera de estos comandos:
 - `/bd`
 - `/butano`
 - `/butanodeath`
+
