@@ -2,6 +2,6 @@
 ## Title: |cffff6600ButanoDeath|r
 ## Notes: Reproduce un auténtico temazo cuando mueres.
 ## Author: Holgar Hachatormenta
-## Version: 1.0
+## Version: 1.1.0
 
 Core.lua
